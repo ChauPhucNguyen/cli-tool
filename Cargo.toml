@@ -1,0 +1,21 @@
+[package]
+name = "cli_tool"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.98"
+chrono = "0.4.41"
+clap = "4.5.40"
+dirs = "6.0.0"
+linfa = "0.7.1"
+linfa-clustering = "0.7.1"
+ndarray = "0.16.1"
+regex = "1.11.1"
+rusqlite = "0.36.0"
+serde = "1.0.219"
+serde_json = "1.0.140"
+shell-words = "1.1.0"
+tokio = "1.45.1"
+walkdir = "2.5.0"
+which = "8.0.0"
