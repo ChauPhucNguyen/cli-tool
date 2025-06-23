@@ -4,6 +4,7 @@ A smart terminal companion that learns your command patterns and evolves with yo
 This CLI toolkit watches, learns, and evolves based on your usage patterns to create intelligent command suggestions and auto-generated aliases.
 
 ✨ Features
+
 🧠 Intelligent Pattern Recognition
 
 Analyzes your command history using machine learning
